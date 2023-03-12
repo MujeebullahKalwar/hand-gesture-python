@@ -1,0 +1,7 @@
+1. install python3
+2. install pip3
+3. install numpy (pip3 install numpy)
+5. install mediapipe (pip3 install mediapipe)
+6. install opencv (pip3 install opencv-python)
+7. install tensorflow (pip3 install tensorflow)
+8. python3 main.py
